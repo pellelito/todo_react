@@ -16,7 +16,7 @@ class App extends Component {
       },
       {
         id: 3,
-        title: "Dinner with mistress",
+        title: "Dinner with friends",
         completed: false,
       },
     ],
