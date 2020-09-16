@@ -28,7 +28,7 @@ class Todo extends Component {
     );
   }
 }
-
+//PropTypes
 Todo.propTypes = {
   todoProp: PropTypes.object.isRequired,
 };
